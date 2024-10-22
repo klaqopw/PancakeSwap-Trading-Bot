@@ -68,7 +68,10 @@ DeFi Trade Bot is an innovative solution designed to optimize crypto assets and 
 - 🛠 Create fully automated strategies to BUY THE DIP and use TRAILING STOP LOSS
 - 🔑 Place Limit Orders
 - 🍔 Liquidity Farms. Minimize fees within any network by calculating the recent blocks farmed to indicate the lowest fee to the miner. This way you will be able to reduce the fee when farming in the ETH network to $1.
-
+- 👣 Integration with market analytics. The bot automatically analyzes the market via APIs of popular DeFi and CEX analytics platforms (e.g. CoinGecko, CoinMarketCap). You can set up automatic purchase of promising tokens as the trading volume increases or the price drops.
+- 🐳 Alert system. Add alerts via Telegram, Discord or email about events related to your tokens, including reaching target price levels, liquidity changes or automatic trades.
+- 🎯 Arbitrage strategies. The bot can find and exploit price discrepancies on different DEX platforms and execute arbitrage trades, increasing potential profits.
+- 🛠 Support for NFT markets. The bot can also interact with NFT markets, automatically buying collectible tokens or rare items based on specified parameters.
 ### Intuitive Interface
 
 User-friendly interface that doesn't require in-depth knowledge of DeFi.
