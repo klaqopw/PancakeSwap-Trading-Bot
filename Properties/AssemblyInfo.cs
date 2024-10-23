@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 // COM, set the ComVisible attribute to TRUE for that type.
 [assembly: ComVisible(false)]
 
-// Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
+// The following GUID is used to identify the type library if this project will be visible to COM
 [assembly: Guid("34c069f1-8cd9-4612-8d59-159f5f52b847")]
 
 // The build version information consists of the following four values:
